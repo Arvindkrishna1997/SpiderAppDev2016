@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SpiderApp3</string>
+    <string-array name="music">
+        <item>Equinox</item>
+        <item>lost</item>
+        <item>backmusic</item>
+    </string-array>
+</resources>
